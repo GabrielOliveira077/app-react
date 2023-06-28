@@ -1,3 +1,52 @@
+O aplicativo é um CRUD para cadastro de alunos feito em React.js
+ultilizando Bootstrap para estilização
+e beck end firebase 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
